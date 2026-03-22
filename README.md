@@ -1,6 +1,5 @@
 <!-- **edmardl/edmardl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## Hi there 👋
-
 # Edmar Dultra de Lima
 
 CloudOps & Database Administrator (DBA) with extensive experience in Oracle, Microsoft SQL Server, Sybase, UNIX/Linux systems, automation, performance tuning, and large‑scale enterprise production environments.
