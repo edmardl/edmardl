@@ -21,7 +21,7 @@ CloudOps & Database Administrator (DBA) with extensive experience in Oracle, Mic
 ## Core Skills
 
 ### Databases  
-Oracle (OCP), Microsoft SQL Server, Sybase.
+Oracle, Microsoft SQL Server, Sybase.
 Performance tuning, query optimization, migrations, upgrades, capacity planning.
 
 ### Operating Systems 
